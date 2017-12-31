@@ -21,9 +21,9 @@ class ComposerStaticInit66f7ff9291950ae2218ae7a4460e12eb
     );
 
     public static $prefixesPsr0 = array (
-        'C' => 
+        'T' => 
         array (
-            'Controllers' => 
+            'Test' => 
             array (
                 0 => __DIR__ . '/../..' . '/App',
             ),

@@ -9,7 +9,7 @@ syntaxCheck="false"
 >
 <testsuites>
 <testsuite name="Unit Tests">
-<directory>Test</directory>
+<directory>./Test/</directory>
 </testsuite>
 </testsuites>
 </phpunit>

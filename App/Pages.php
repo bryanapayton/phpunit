@@ -8,7 +8,7 @@ return 'Hello World';
 }
 public function returnTrue()
 {
-return True;
+return true;
 }
 public function returnArray()
 {
