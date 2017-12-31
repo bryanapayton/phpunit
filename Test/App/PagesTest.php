@@ -1,5 +1,5 @@
 <?php
-require "/home/centos/App/Pages.php"; 
+require(__DIR__.'/../../App/Pages.php'); 
 class PagesTest extends PHPUnit\Framework\TestCase
 {
 
