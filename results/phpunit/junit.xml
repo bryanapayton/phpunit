@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Unit Tests" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.000141">
+    <testsuite name="PagesTest" file="/home/centos/Test/App/PagesTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.000141">
+      <testcase name="testRenderReturnsHelloWorld" class="PagesTest" classname="PagesTest" file="/home/centos/Test/App/PagesTest.php" line="6" assertions="1" time="0.000141"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
